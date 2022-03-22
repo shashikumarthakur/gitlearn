@@ -1,2 +1,0 @@
-# gitlearn
-practicing git
